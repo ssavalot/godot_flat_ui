@@ -1,4 +1,5 @@
-The repository contain a flat design for Godot engine.
+The repository contain a dark flat design for Godot engine.
+Check the screenshots folder for visuals.
 
 Download and copy the files into your godot source folders and change the following files.
 
