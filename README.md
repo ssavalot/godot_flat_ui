@@ -1,4 +1,4 @@
-# godot_flat_ui
+## godot engine flat theme
 Flat ui layout for Godot engine
 
 The repository contain a dark flat design for Godot engine.
